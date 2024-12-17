@@ -1,0 +1,15 @@
+D:\.Net\Route\C# Basic\Visual Studio\C#4.2-Demo\bin\Debug\net8.0\C#4.2-Demo.exe
+D:\.Net\Route\C# Basic\Visual Studio\C#4.2-Demo\bin\Debug\net8.0\C#4.2-Demo.deps.json
+D:\.Net\Route\C# Basic\Visual Studio\C#4.2-Demo\bin\Debug\net8.0\C#4.2-Demo.runtimeconfig.json
+D:\.Net\Route\C# Basic\Visual Studio\C#4.2-Demo\bin\Debug\net8.0\C#4.2-Demo.dll
+D:\.Net\Route\C# Basic\Visual Studio\C#4.2-Demo\bin\Debug\net8.0\C#4.2-Demo.pdb
+D:\.Net\Route\C# Basic\Visual Studio\C#4.2-Demo\obj\Debug\net8.0\C#4.2-Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\Route\C# Basic\Visual Studio\C#4.2-Demo\obj\Debug\net8.0\C#4.2-Demo.AssemblyInfoInputs.cache
+D:\.Net\Route\C# Basic\Visual Studio\C#4.2-Demo\obj\Debug\net8.0\C#4.2-Demo.AssemblyInfo.cs
+D:\.Net\Route\C# Basic\Visual Studio\C#4.2-Demo\obj\Debug\net8.0\C#4.2-Demo.csproj.CoreCompileInputs.cache
+D:\.Net\Route\C# Basic\Visual Studio\C#4.2-Demo\obj\Debug\net8.0\C#4.2-Demo.sourcelink.json
+D:\.Net\Route\C# Basic\Visual Studio\C#4.2-Demo\obj\Debug\net8.0\C#4.2-Demo.dll
+D:\.Net\Route\C# Basic\Visual Studio\C#4.2-Demo\obj\Debug\net8.0\refint\C#4.2-Demo.dll
+D:\.Net\Route\C# Basic\Visual Studio\C#4.2-Demo\obj\Debug\net8.0\C#4.2-Demo.pdb
+D:\.Net\Route\C# Basic\Visual Studio\C#4.2-Demo\obj\Debug\net8.0\C#4.2-Demo.genruntimeconfig.cache
+D:\.Net\Route\C# Basic\Visual Studio\C#4.2-Demo\obj\Debug\net8.0\ref\C#4.2-Demo.dll
